@@ -1,0 +1,17 @@
+{
+    "name": "chameleon-w\/laravel-Runit",
+    "description": "a unit compents for laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chameleon-w",
+            "email": "chameleon_w@yeah.net"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ChameleonW\\LaravelRunit\\": "src"
+        }
+    }
+}
